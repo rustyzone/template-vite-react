@@ -1,6 +1,6 @@
 # Chrome Extension
 
-This template includes Supabase, React, Tailwind & the Rollup chrome extension
+This template includes React, Tailwind & the Vite Chrome extension
 plugin
 
 ## Commands
